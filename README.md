@@ -1,6 +1,6 @@
 # myrepo_syifa2
 
-Day-1-Red_Dead_Redemption_2-Syifa_Fauziah_Azzahra
+# Day-1-Red_Dead_Redemption_2-Syifa_Fauziah_Azzahra
 
 Informasi Peserta
 Nama Lengkap : Syifa Fauziah Azzahra
