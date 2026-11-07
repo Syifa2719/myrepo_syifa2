@@ -2,7 +2,9 @@
 
 # Day-1-Red_Dead_Redemption_2-Syifa_Fauziah_Azzahra
 
-Informasi Peserta
+**Informasi Peserta**
+
+
 Nama Lengkap : Syifa Fauziah Azzahra
 Kelompok : Kelompok 4 Red Dead Redemption
 Kegiatan : Day 1 Proyek Workshop
