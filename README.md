@@ -7,7 +7,7 @@ Nama Lengkap : Syifa Fauziah Azzahra
 Kelompok : Kelompok 4 Red Dead Redemption
 Kegiatan : Day 1 Proyek Workshop
 
-**Deskripsi Repository** endl;
+**Deskripsi Repository**
 Repository ini merupakan dokumentasi resmi dari kegiatan Day 1 Proyek Workshop. Di dalam repository ini tersimpan catatan materi mateeri, poin-poin pembelajaran penting, dan refleksi pribadi selama mengikuti rangkaian acara pada hari pertama.
 
 **Tujuan Repository**
