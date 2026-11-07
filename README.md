@@ -23,9 +23,9 @@ Repository ini merupakan dokumentasi resmi dari kegiatan Day 1 Proyek Workshop. 
 
 **Tujuan Repository**
 
-Penguasaan Version Control & Kolaborasi: Melatih penggunaan Git secara praktis (commit, branch, merge, pull request) dan kerja tim yang terorganisasi sebagai standar alur kerja pengembangan perangkat lunak di industri.
-Manajemen Tugas & Transparansi Evaluasi: Menyimpan kode program, laporan, dan dokumentasi secara terstruktur sehingga mudah dikumpulkan, dinilai, dan dipantau kontribusinya oleh dosen melalui riwayat commit.
-Portofolio & Dokumentasi Digital: Membangun portofolio publik dengan README dan dokumentasi teknis yang baik sebagai bekal melamar magang atau pekerjaan.
+- Penguasaan Version Control & Kolaborasi: Melatih penggunaan Git secara praktis (commit, branch, merge, pull request) dan kerja tim yang terorganisasi sebagai standar alur kerja pengembangan perangkat lunak di industri.
+- Manajemen Tugas & Transparansi Evaluasi: Menyimpan kode program, laporan, dan dokumentasi secara terstruktur sehingga mudah dikumpulkan, dinilai, dan dipantau kontribusinya oleh dosen melalui riwayat commit.
+* Portofolio & Dokumentasi Digital: Membangun portofolio publik dengan README dan dokumentasi teknis yang baik sebagai bekal melamar magang atau pekerjaan.
 
 
 
