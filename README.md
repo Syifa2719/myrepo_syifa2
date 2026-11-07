@@ -33,6 +33,8 @@ Repository ini merupakan dokumentasi resmi dari kegiatan Day 1 Proyek Workshop. 
 **Dokumentasi Kegiatan Workshop (Day 1)**
 
 **1. Rangkuman Materi**
+
+
 *Berikut rangkuman materi yang disampaikan pada sesi workshop hari pertama:*
 - Selak beluk TIK: Penjelasan tentang visi, misi, dan landasan dasar Jurusan Teknik Informatika dan Komputer (TIK).
 - Profil Lulusan Setiap Prodi: Uraian mengenai kompetensi, keterampilan, dan peluang karir yang dimiliki lulusan di tiap program studi TIK.
