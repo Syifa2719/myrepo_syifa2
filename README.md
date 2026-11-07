@@ -8,14 +8,21 @@ Kelompok : Kelompok 4 Red Dead Redemption
 Kegiatan : Day 1 Proyek Workshop
 
 **Deskripsi Repository**
+
+
 Repository ini merupakan dokumentasi resmi dari kegiatan Day 1 Proyek Workshop. Di dalam repository ini tersimpan catatan materi mateeri, poin-poin pembelajaran penting, dan refleksi pribadi selama mengikuti rangkaian acara pada hari pertama.
 
 **Tujuan Repository**
+
+
 Penguasaan Version Control & Kolaborasi: Melatih penggunaan Git secara praktis (commit, branch, merge, pull request) dan kerja tim yang terorganisasi sebagai standar alur kerja pengembangan perangkat lunak di industri.
 Manajemen Tugas & Transparansi Evaluasi: Menyimpan kode program, laporan, dan dokumentasi secara terstruktur sehingga mudah dikumpulkan, dinilai, dan dipantau kontribusinya oleh dosen melalui riwayat commit.
 Portofolio & Dokumentasi Digital: Membangun portofolio publik dengan README dan dokumentasi teknis yang baik sebagai bekal melamar magang atau pekerjaan.
 
+
 **Dokumentasi Kegiatan Workshop (Day 1)**
+
+
 **1. Rangkuman Materi**
 *Berikut rangkuman materi yang disampaikan pada sesi workshop hari pertama:*
 - Selak beluk TIK: Penjelasan tentang visi, misi, dan landasan dasar Jurusan Teknik Informatika dan Komputer (TIK).
